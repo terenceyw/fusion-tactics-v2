@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-toe-boardgameio",
+  "version": "1.0.0",
+  "description": "A tic-tac-toe game built with boardgame.io and React.",
+  "main": "src/index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "boardgame.io": "^0.0.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "homepage": "https://your-deployment-url.com",
+  "license": "MIT"
+}
